@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    padding: 5px;
+}
+input{
+    padding: 10px;
+    border: 2px solid red;
+    margin: 10px;
+
+}
+button{
+    background-color: lightblue;
+    color: aliceblue;
+    padding: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
+#maintask{
+    
+    background-color: skyblue;
+    height: auto;
+}
